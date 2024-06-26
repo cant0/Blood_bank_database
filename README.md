@@ -15,6 +15,8 @@
 
 
 ---
+![image](https://github.com/fprzepio/Blood-Bank-Database/assets/132128402/b8d0edf1-488b-4a2d-9a7e-c61821d3c994)
+![obraz_2024-06-26_193621009](https://github.com/fprzepio/Blood-Bank-Database/assets/132128402/0d3cf26e-aa1a-4869-a6ac-2323e94b5c1a)
 
 
 **Temat:** System Krwiodawstwa
